@@ -16,3 +16,8 @@ A business intelligence dashboard created using Power BI to visualize and analyz
 - **Microsoft Excel**
 - **DAX Measures**
 - **Python (for data preprocessing)** *(if applicable)*
+
+## Dasboard shows
+![Mill Performance Page](Screenshot.png)
+![Department and Employee Performance](Screenshot_02.png)
+![Forcsting and Model insight](Screenshot_02.png)
