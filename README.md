@@ -19,5 +19,5 @@ A business intelligence dashboard created using Power BI to visualize and analyz
 
 ## Dasboard shows
 ![Mill Performance Page](Screenshot.png)
-![Department and Employee Performance](Screenshot_02.png)
-![Forcsting and Model insight](Screenshot_02.png)
+![Ai based Forcasting and Analysis](Screenshot_01.png)
+![HR and Productivity Performance](Screenshot_02.png)
